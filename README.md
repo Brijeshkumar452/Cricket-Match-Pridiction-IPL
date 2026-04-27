@@ -11,16 +11,14 @@ The main goal of this project is to understand how machine learning performs on 
 
 ## 📊 Dataset
 
-* Source: IPL Dataset
-* Type: Match-based simplified dataset
-* Features:
-
-  * Team1
-  * Team2
-  * Match conditions (derived features)
-* Target:
-
-  * Match Result (Win/Loss)
+Source: IPL Dataset
+Features:
+Team1
+Team2
+Toss Winner
+Toss Decision
+Venue
+Target: Match Winner
 
 ---
 
