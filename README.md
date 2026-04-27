@@ -13,12 +13,12 @@ The main goal of this project is to understand how machine learning performs on 
 
 Source: IPL Dataset
 Features:
-Team1
-Team2
-Toss Winner
-Toss Decision
-Venue
-Target: Match Winner
+1.Team1
+2.Team2
+3.Toss Winner
+4.Toss Decision
+5.Venue
+6.Target: Match Winner
 
 ---
 
